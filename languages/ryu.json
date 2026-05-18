@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": [
+			"Smaugryu"
+		]
+	},
+	"itemCount": "くぬ説明んかいうちぇーしねーする項目ぬ{{PLURAL:$1| $1件あいびーん}}。",
+	"classPlaceholder": "クラス入力",
+	"browse": "またー、他ぬクラス閲覧すん：",
+	"noFiltersDefined": "くぬクラスぬフィルターぬ定義ぬねーん。",
+	"addFilter": "フィルターいりしーすん",
+	"viewQuery": "SPARQLクェーリー見じゅん",
+	"noItems": "くぬ説明んかい合いる物ぬねーん。",
+	"displayItemsError": "アイテムぬリスト取いる時ぬ長しじゆん。なーふぃんフィルターいりしーみそーれー。",
+	"gettingValues": "$1ぬ値取とーいびーん...",
+	"filterValuePlaceholder": "フィルターぬ値入力すん",
+	"customFilterValue": "好ちやる値選ばりーん。",
+	"noAdditionalValues": "フィルター$1ぬいりしーる値ーねーん。",
+	"filterError": "$1ぬ値取いる時ぬ長しじゆん。",
+	"filterTimeout": "（フィルター$1ぬまた値セット取いんでぃ時かかいくとぅ、代わいんかいまた物ーあらるセット、くぬ下かい表示さいびーん。）",
+	"selectValue": "$1ぬ値選びみそーれー。",
+	"selectAdditionalValue": "いりしーるぬ$1ぬ値選びみそーれー。",
+	"noValue": "値ぬねーん",
+	"changeClassNote": "（戒み：クラスけーいーねー、なまぬフィルター失やびーん。）",
+	"specificClass": "具体さるクラスんかいけーしみそーれー：",
+	"generalClass": "並てぃさるクラスんかいけーしみそーれー：",
+	"viewList": "アイテムぬリスト見じゅん",
+	"backToMain": "メインページんかい戻ゆん",
+	"results": "({{PLURAL:$1|1件|$1件}})",
+	"applyLinkedFilter": "フィルター$1んかい適用すん",
+	"chooseLinkedFilter": "くぬ下から、一ち適用しーくぃーみそーれー："
+}
