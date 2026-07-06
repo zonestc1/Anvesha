@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Larske",
 			"Sabelöga",
 			"Stefan2255",
 			"WikiPhoenix"
@@ -12,7 +13,7 @@
 	"noFiltersDefined": "Inget filter har definierats för den här klassen.",
 	"addFilter": "Lägg till ett filter",
 	"viewQuery": "Visa SPARQL-sökning",
-	"noItems": "Inge objekt matchar den här beskrivningen.",
+	"noItems": "Inget objekt matchar den här beskrivningen.",
 	"displayItemsError": "Försök att visa listan över objekt tog för lång tid; överväg att lägga till fler filter.",
 	"gettingValues": "Hämtar värden för filter $1...",
 	"filterValuePlaceholder": "Ange filtervärde",
